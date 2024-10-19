@@ -22,7 +22,7 @@ RegisterNumber:
 ```
 
 ## Output:
-![prediction of iris species using SGD Classifier](sam.png)
+
 
 
 ## Result:
